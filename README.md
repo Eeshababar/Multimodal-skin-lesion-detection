@@ -43,3 +43,10 @@ Two CNN backbones were used:
 
 
 ## 📂 Project Structure
+
+├── efficientnet-and-early-fusion.ipynb # EfficientNet-B0 + Early Fusion
+├── resnet50-and-early-fusion.ipynb # ResNet-50 + Early Fusion
+├── resnet-50-and-late-fusion.ipynb # ResNet-50 + Late Fusion
+├── requirements.txt # Dependencies
+├── README.md # Project documentation
+└── data/ # Dataset folder (not included)
